@@ -24,7 +24,9 @@ int main() {
 }
 ```
 ## OUTPUT:
+```
 Modified value: 25.00 	
+```
 
 ## RESULT:
 Thus the program to convert a 23.65 into 25 using pointer has been executed successfully.
@@ -67,8 +69,9 @@ int main() {
 }
 ```
 ## OUTPUT:
+```
 Product of first 12 natural numbers: 479001600
-
+```
 ## RESULT:
 
 Thus the program has been executed successfully.
@@ -120,7 +123,7 @@ Sum of row 2: 15
 Sum of row 3: 24
 ```
 ## RESULT
- 
+ hus the C program to String process executed successfully
 
 
 # EX-24-STRINGS
